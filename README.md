@@ -31,5 +31,9 @@ Interactive filters
 •	Balangir and Bhubaneswar contributed significantly to total sales.
 •	Monthly sales peaked during march.
 •	A small no.of product contributed a large portion of total revenue.
+## Dashboard interaction
+<a href="https://github.com/Aneesharana/excel-sales-dashboard/blob/main/Screenshot%20(6).png">View Dashboard</a>
+## dashboard preview
+<img width="1280" height="677" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/dc9d8642-eb72-4049-9c78-59b2424db477" />
 
 
