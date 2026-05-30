@@ -35,6 +35,8 @@ Interactive filters
 <a href="https://github.com/Aneesharana/excel-sales-dashboard/blob/main/Screenshot%20(6).png">View Dashboard</a>
 ## dashboard preview
 <img width="1280" height="677" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/dc9d8642-eb72-4049-9c78-59b2424db477" />
+
 ## Conclusion
-The Dashboard provides a clear view of Rishi Store's sales performance across cities, products, and time periods. The analysis reveals that laptop and mobiles are the primary revenue drivers, while balangir and bhubaneswar are the most profitable markets. By focusing on high-performing products and maintaining inventory
-during peak sales periods, the store can further improve revenue and profitability. This projects demonstrate the use of excel for business analysis, data visualization, and decision-making support.
+
+The Dashboard provides a clear view of Rishi Store's sales performance across cities, products, and time periods. The analysis reveals that Laptop and Mobiles are the primary revenue drivers, while Balangir and Bhubaneswar are the most Profitable Markets. By focusing on high-performing products and maintaining inventory
+during peak sales periods, the store can further improve revenue and profitability. This projects demonstrate the use of Excel for Business Analysis, data Visualization, and decision-making support.
